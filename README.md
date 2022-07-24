@@ -1,4 +1,4 @@
-# react-redux-sample
+# react-redux-typescript
 
 ## Requirements
 
